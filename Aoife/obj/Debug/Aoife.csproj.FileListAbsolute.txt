@@ -1,0 +1,9 @@
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\bin\Aoife.dll.config
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\bin\Aoife.dll
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\bin\Aoife.pdb
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\obj\Debug\Aoife.csproj.CoreCompileInputs.cache
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\obj\Debug\Aoife.dll
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\obj\Debug\Aoife.pdb
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\AboutMe\Aoife\obj\Debug\Aoife.csprojResolveAssemblyReference.cache
