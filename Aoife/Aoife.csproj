@@ -68,6 +68,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\SassMain.css">
+      <DependentUpon>SassMain.scss</DependentUpon>
+    </Content>
+    <Content Include="Content\SassMain.min.css">
+      <DependentUpon>SassMain.css</DependentUpon>
+    </Content>
     <Content Include="Content\_bootstrap.scss" />
     <Content Include="Content\bootstrap\_wells.scss" />
     <Content Include="Content\bootstrap\_variables.scss" />
@@ -140,6 +146,10 @@
     <Content Include="Content\bootstrap\mixins\_background-variant.scss" />
     <Content Include="Content\bootstrap\mixins\_alerts.scss" />
     <Content Include="Content\SassMain.scss" />
+    <None Include="compilerconfig.json" />
+    <None Include="compilerconfig.json.defaults">
+      <DependentUpon>compilerconfig.json</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <Content Include="Scripts\bootstrap\affix.js" />
     <Content Include="Scripts\bootstrap\alert.js" />
