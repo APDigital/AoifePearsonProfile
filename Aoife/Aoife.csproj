@@ -151,6 +151,17 @@
       <DependentUpon>compilerconfig.json</DependentUpon>
     </None>
     <None Include="packages.config" />
+    <Content Include="Gallery.html" />
+    <Content Include="IMG\viking1.jpg" />
+    <Content Include="IMG\viking2.jpg" />
+    <Content Include="IMG\spyro.jpg" />
+    <Content Include="IMG\fish.jpg" />
+    <Content Include="IMG\raven.jpg" />
+    <Content Include="IMG\fishlady.jpg" />
+    <Content Include="IMG\marybag.jpg" />
+    <Content Include="IMG\skull.jpg" />
+    <Content Include="IMG\hagrid.png" />
+    <Content Include="IMG\yellow mushroom.jpg" />
     <Content Include="Scripts\bootstrap\affix.js" />
     <Content Include="Scripts\bootstrap\alert.js" />
     <Content Include="Scripts\bootstrap\button.js" />
@@ -226,6 +237,7 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="Vikings.html" />
     <Content Include="Web.config" />
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />

@@ -42,6 +42,15 @@
 .otherInterests {
   padding-top: 40px; }
 
+.btn {
+  text-align: center;
+  margin-left: 45%;
+  background-color: #efefef;
+  margin-bottom: 20px; }
+
+.btn-gallery {
+  margin: 20px 0; }
+
 .other {
   padding-bottom: 20px; }
 
@@ -58,4 +67,71 @@
 .half {
   height: 500px;
   margin: 10px 30px; }
+
+.title {
+  margin: 40px 0; }
+
+.bg {
+  background-color: darkslategray;
+  color: white;
+  padding: 20px 0; }
+
+.grid {
+  border-radius: 15px;
+  background-color: white;
+  color: white;
+  padding: 60px 0; }
+
+.gallery-grid {
+  padding-left: 80px; }
+
+.gallery-grid img {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 15px; }
+
+.grid-middle {
+  padding-left: 80px; }
+
+.grid-item {
+  margin: 10px; }
+
+.viking-img img {
+  background-color: darkslategray; }
+
+.viking-img img {
+  width: 250px;
+  border-radius: 15px; }
+
+.viking-img :hover {
+  opacity: 0.6; }
+
+.modal-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.6;
+  top: 0px;
+  left: 0px; }
+
+.modal-img {
+  opacity: 0;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 50%;
+  left: 0px;
+  top: 0px; }
+
+.modal-img img {
+  margin-left: -50%;
+  margin-top: -50%;
+  background-color: white;
+  padding: 5px;
+  width: 340px;
+  /*just to give a viewable size */ }
+
+.noscroll {
+  overflow: hidden; }
 
